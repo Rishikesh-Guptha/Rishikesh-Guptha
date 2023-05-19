@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Rishikesh Guptha</h1>
 
-<!--
-**Rishikesh-Guptha/Rishikesh-Guptha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working as a Open Source contributer in TSOC'23
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Web3, Reactjs and DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate with anyone who's just excited about tech as me! 😉
+
+ 📫 Feel free to reach out to me: rishikeshrishi2004@gmail.com
+ 
+ ## Connect with me:
+ <p align="left">
+<a href="www.linkedin.com/in/rishikesh-guptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-sahu-1a73401ba" height="30" width="40" /></a>
+<a href="https://instagram.com/rishikesh_guptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishikesh_guptha" height="30" width="40" /></a>
+</p>
