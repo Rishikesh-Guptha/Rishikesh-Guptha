@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fd8d6103b348f3031a5d0dcc4bc7204c918328e2&rid=giphy.gif&ct=g">
 <h1 align="center"> Hi there 👋 I'm Rishikesh Guptha</h1>
 
  🔭 I’m currently working as a Open Source contributer in TSOC'23
