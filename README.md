@@ -7,7 +7,8 @@
 
 👯 I’m looking to collaborate with anyone who's just excited about tech as me! 😉
 
- 📫 Feel free to reach out to me: rishikeshrishi2004@gmail.com
+ 📫 To know more about me or reach out to me: https://rishikesh-guptha.github.io/rishikeshguptha.github.io/
+
  
  ## Connect with me:
  <p align="left">
