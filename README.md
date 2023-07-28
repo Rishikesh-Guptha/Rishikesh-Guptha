@@ -15,3 +15,10 @@
 <a href="https://www.linkedin.com/in/rishikesh-guptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-sahu-1a73401ba" height="30" width="40" /></a>
 <a href="https://instagram.com/rishikesh_guptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishikesh_guptha" height="30" width="40" /></a>
 </p>
+
+---
+
+## :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rishikesh-Guptha&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+
