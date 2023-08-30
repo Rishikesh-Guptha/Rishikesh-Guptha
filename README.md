@@ -3,9 +3,9 @@
 
  🔭 I’m an active Open Source contributer in TSOC'23
 
-🌱 I’m currently learning Web3, Reactjs and DSA.
+🌱 Currently involved in  Web3, Reactjs and DSA.
 
-👯 I’m looking to collaborate with anyone who's just excited about tech as me! 😉
+👯 I’m looking to collaborate with anyone who's just as excited about tech as me! 😉
 
  📫 To know more about me or reach out to me: https://rishikesh-guptha.github.io/rishikeshguptha.github.io/
 
