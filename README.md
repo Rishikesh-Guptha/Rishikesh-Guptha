@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="290" alt="coding" src="https://imgs.search.brave.com/GDoptM_OTiTN-x3oarnjJ1Er9TQYZcO7uAWFzlA0a0A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi93ZWIt/dGhlbWUtbGFwdG9w/LWNvbXB1dGVyLWJs/dWUtZ3JlZW4tcGF0/dGVybi1iYWNrZ3Jv/dW5kLTI2Mjc4MTM3/Mi5qcGc">
 <h1 align="center"> Hi there 👋 I'm Rishikesh Guptha</h1>
 
- 🔭 I’m an active Open Source contributer in TSOC'23
+ 🔭 Team Lead in Time Chain Summer of Code'23
 
 🌱 Currently involved in  Web3, Reactjs and DSA.
 
